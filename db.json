@@ -1,0 +1,19 @@
+{
+  "solicitudes": [
+  {
+    "id":1,
+    "estado": "Creada",
+    "descripcion": "Solicitud 1"
+  },
+  {
+    "id":2,
+    "estado": "Enviada",
+    "descripcion": "Solicitud 2"
+  },
+  {
+    "id":3,
+    "estado": "Enviada",
+    "descripcion": "Solicitud 3"
+  }
+  ]
+}

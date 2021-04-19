@@ -48,22 +48,28 @@
   ],
   "calendario":[
     {
-      "id": 1,
+      "id_evento": 1,
+      "id_estado_evento": 1,
       "titulo": "Luis Sies, VILLA FACH",
-      "fecha_inicio": "06-04-2021 14:30:00",
-      "fecha_fin": "06-04-2021 15:30:00"
+      "fecha_inicio": "18-04-2021 14:30:00",
+      "fecha_fin": "18-04-2021 15:30:00",
+      "observacion" : "prueba de datos 1"
     },
     {
-      "id": 2,
+      "id_evento": 2,
+      "id_estado_evento": 1,
       "titulo": "Matias Fontana, VILLA FACH",
-      "fecha_inicio": "07-04-2021 17:30:00",
-      "fecha_fin": "07-04-2021 18:30:00"
+      "fecha_inicio": "19-04-2021 17:30:00",
+      "fecha_fin": "19-04-2021 18:30:00",
+      "observacion" : "prueba de datos 2"
     },
     {
-      "id": 3,
+      "id_evento": 3,
+      "id_estado_evento": 1,
       "titulo": "Carlos Huichaquelen, CATCHAHUA",
-      "fecha_inicio": "08-04-2021 12:00:00",
-      "fecha_fin": "08-04-2021 13:00:00"
+      "fecha_inicio": "20-04-2021 12:00:00",
+      "fecha_fin": "20-04-2021 13:00:00",
+      "observacion" : "prueba de datos 3"
     }
   ]
 }
